@@ -1,0 +1,4 @@
+LOBBY:
+Player ui need to be implemented:
+PlayerEnteryUI - update player ui - using setup to set name, isReady or IsHost
+PlayerListUI - when player joined, subscrive the event, next - handle player spawn as well as player ui - where get ref of player and setup with player ui
